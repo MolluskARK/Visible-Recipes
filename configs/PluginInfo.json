@@ -1,6 +1,6 @@
 {
-    "FullName": "Plugin Template",
-    "Description": "Simple example plugin",
+    "FullName": "Visible Recipes",
+    "Description": "Show recipe blueprints in crafting stations",
     "Version": 0.1,
     "MinApiVersion": 3.54
 }
